@@ -9,5 +9,6 @@ public class test {
 	
 	   public  void  say3(){
 	   System.out.println("我是brh的say3（）方法");
+		   System.out.println("我是brh的say3vvvvvv（）方法");
    }
 }
